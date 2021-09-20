@@ -1,11 +1,5 @@
 import time
 import aranet4
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import matplotlib.dates as md
-import shutil
 from datetime import datetime
 import os.path
 
